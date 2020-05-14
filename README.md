@@ -1,5 +1,7 @@
 # NWP_myftp_2019
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/fb57149817424e68a1af6fd31870103d)](https://app.codacy.com/manual/Eydou/NWP_myftp_2019?utm_source=github.com&utm_medium=referral&utm_content=Eydou/NWP_myftp_2019&utm_campaign=Badge_Grade_Dashboard)
+
 ## Objective
 
 The goal of this project is to create a FTP server
