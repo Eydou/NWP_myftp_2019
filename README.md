@@ -10,6 +10,8 @@ The goal of this project is to create a FTP server
 | --- | --- |
 | Total | 71% |
 
+Command not made : passive and active mode
+
 ## Authors
 
  **[Edouard Touch](https://github.com/Eydou)**
