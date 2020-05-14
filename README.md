@@ -10,7 +10,7 @@ The goal of this project is to create a FTP server
 | --- | --- |
 | Total | 71% |
 
-Command not made : passive and active mode
+Command not made : passive and active mode, file
 
 ## Authors
 
